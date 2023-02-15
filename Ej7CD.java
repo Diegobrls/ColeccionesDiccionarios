@@ -25,6 +25,7 @@ class Moneda {
     public Moneda(int valor, boolean posicion) {
         this.valor = valor;
         this.posicion = posicion;
+        
     }
 
     // Método para obtener el valor de la moneda
